@@ -1,4 +1,4 @@
 # hello-world
 The Tradition
 
-Three months of uninterrupted relfection begin... This is the result
+Three months of uninterrupted reflection begin... This is the result
